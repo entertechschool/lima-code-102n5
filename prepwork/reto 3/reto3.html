@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mi Primer Mensaje Interactivo</title>
+  <style>
+    
+    button {
+      /* agrega aqui tus estilos*/
+    }
+  </style>
+</head>
+<body>
+<!--    * Agrega más etiquetas HTML para que tu sitio se vea genial esto es un ejemplo:
+            <h1>¡Haz clic en el botón para ver mi mensaje!</h1>
+        * Cambia el nombre del <button> "Clic aquí" por el de tu preferencia.
+        * ajusta el mensaje que mostrar el button al momento de hacer click esto es un ejemplo:
+            '¡Hola, este es mi primer mensaje interactivo con JavaScript!'
+         -->
+  
+  <button onclick="mostrarMensaje()">Clic aquí</button>
+  <p id="mensaje"></p>
+
+  <script>
+    function mostrarMensaje() {
+      document.getElementById('mensaje').textContent = ''/*'¡Hola, este es mi primer mensaje interactivo con JavaScript!'*/;
+    }
+  </script>
+</body>
+</html>
