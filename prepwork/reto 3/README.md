@@ -6,7 +6,7 @@ Esta actividad te sumergiras en el concepto de interactividad en las páginas we
 
 ## Instrucciones
 
-1. Toma como referencia el código implementado en [reto 3](https://github.com/entertechschool/code-102-guide/blob/main/curriculum/prework/reto3/reto3.html).
+1. Toma como referencia el código implementado en [reto 3]().
 2. Crea un nuevo archivo llamado `button.html` y sigue la indicaciones.
 2. Agrega una estructura HTML básica al código proporcionado.
 3. Agrega estilo CSS al elemento `<button>` en el sección comentada. 
