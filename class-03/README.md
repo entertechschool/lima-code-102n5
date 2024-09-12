@@ -1,9 +1,5 @@
 # Versionamiento Local y Remoto
 
-## Grabaciones de la clase
-- [Link de zoom]
-- Código de Acceso: Solicitar al Instructor.
-
 ## Objetivos de aprendizaje
 
 - Los estudiantes podrán crear un nuevo repositorio en la nube y sincronizarlo con su computadora local usando comandos `git` en la terminal.
