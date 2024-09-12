@@ -2,11 +2,7 @@
 
 > La computadora es una bicicleta para la mente.
 >
-> — Steve Jobs
-
-## Grabaciones de la clase
-- [Link de zoom]
-- Código de Acceso: Solicitar al Instructor.
+> —Steve Jobs
 
 ## Objetivos de aprendizaje
 
@@ -24,6 +20,7 @@
 - Demostración en vivo
 - Ejercicio de discusión
    - Sistemas operativos
+   - Abstracción
 - Laboratorio: Installfest y Configurar
 
 Ve las diapositivas y tareas de la clase para obtener más detalles.
@@ -36,4 +33,3 @@ Ve las diapositivas y tareas de la clase para obtener más detalles.
 - IDE
 - VS Code
 - Abstracción
-
