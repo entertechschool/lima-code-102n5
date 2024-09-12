@@ -2,10 +2,6 @@
 
 ¡Bienvenido al Code 102! Nos concentraremos principalmente en aprender cosas nuevas.
 
-## Grabaciones de la clase
-- [Link de zoom]
-- Código de Acceso: Solicitar al Instructor.
-
 ## Objetivos de aprendizaje
 
 - Los estudiantes comprenderán el impacto de los 'mindsets' en el proceso de aprendizaje y sabrán cómo ajustar su 'mindset' para la adquisición efectiva de habilidades.
