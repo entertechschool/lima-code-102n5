@@ -1,32 +1,18 @@
-# Lógica y bucles informáticos
-
-## Grabaciones de la clase
-- [Link de zoom]
-- Código de Acceso: Solicitar al Instructor.
+# Proyecto 102
 
 ## Objetivos de aprendizaje
 
-- Los estudiantes explicarán cómo funcionan las computadoras, utilizando terminología técnica, en más de un nivel de detalle.
-- Los estudiantes implementarán bucles `for` y `while` para realizar tareas significativas en su código.
+- Los estudiantes experimentarán el ciclo completo de desarrollar un sitio web aplicando todos los conocimientos aprendidos.
+- Los estudiantes utilizarán las herramientas que instalaron y realizarán las configuraciones correctas para desplegar un sitio web en GitHub Pages.
 
 ## Agenda de clase
 
-- Review de la clase anterior.
-   - Comparte tu aprendizaje
-- Lógica computacional
-   - Resumen: lectura de debate
-- Lectura de discusión
-   - Read 08: Operadores y Bucles
-- Bucles de computadora
-   - Demostración: bucles `while` y `for`
-   - Tablas de verdad
-   - Lab 08: Operadores y Bucles
+- Review sobre JavaScript.
+   - Comparte tu aprendizaje y tus preguntas.
+- Entendiendo el requerimiento del proyecto.
+- Configurando un nuevo repositorio.
 
-## Nuevo Vocabulario
 
-- loop
-- while
-- for
-- Condicionales
-- Incrementador
-- Decrementador
+## Plazo de entrega
+
+Los estudiantes tendrán al menos 2 días para desarrollar sus proyectos finales.
